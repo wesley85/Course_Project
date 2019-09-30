@@ -90,3 +90,5 @@ export default class IndecisionApp extends React.Component {
     );
   }
 }
+
+// houses entire App and sends to app.js

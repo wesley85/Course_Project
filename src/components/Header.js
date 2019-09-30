@@ -14,3 +14,5 @@ Header.defaultProps = {
 };
 
 export default Header;
+
+// First component in the app

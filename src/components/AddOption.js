@@ -31,3 +31,5 @@ export default class AddOption extends React.Component {
     );
   }
 }
+
+// last component on screen with input and add option button

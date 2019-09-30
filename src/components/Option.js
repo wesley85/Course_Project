@@ -15,3 +15,5 @@ const Option = (props) => (
 );
 
 export default Option;
+
+// middle component that houses the options that were added

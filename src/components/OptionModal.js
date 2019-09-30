@@ -16,3 +16,5 @@ const OptionModal = (props) => (
 );
 
 export default OptionModal;
+
+// Modal that opens when you have atleast one option and click what should I do button
